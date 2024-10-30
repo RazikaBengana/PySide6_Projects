@@ -398,6 +398,10 @@ pip install pyside6-tools
 <br>
 <br>
 
+:pushpin: **Reminder**:
+
+<br>
+
 Remember to activate your **virtual environment** each time you work on this project. 
 
 This keeps your `PySide6` installation isolated from other `Python` projects.
